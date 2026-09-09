@@ -22,6 +22,7 @@ Hi, I’m KALEsky.
 4. [HIT-Compiler-Labs](https://github.com/KALEsky/HIT-Compiler-Labs) — C-- 的词法/语法分析、符号表、语义检查和线性 IR 优化。
 5. [HIT-Computer-Networks-Labs](https://github.com/KALEsky/HIT-Computer-Networks-Labs) — HTTP 缓存代理、可靠 UDP、IPv4 收发/转发和协议抓包分析。
 6. [HIT-Parallel-Computing-Labs](https://github.com/KALEsky/HIT-Parallel-Computing-Labs) — MPI、PThread、OpenMP 和 CUDA 放在同一组实验里比较。
+7. [HIT-RISC-V-Experiments](https://github.com/KALEsky/HIT-RISC-V-Experiments) — 浏览器里的 RISC-V/VDP 模拟器和面向自定义硬件的 bare-metal 固件，能把前端模拟、汇编启动代码和设备寄存器串起来看。
 
 另外还有 [HIT-Database-Systems-Labs](https://github.com/KALEsky/HIT-Database-Systems-Labs) 和 [HIT-Digital-Logic-Password-Lock](https://github.com/KALEsky/HIT-Digital-Logic-Password-Lock)，一个往数据库引擎内部走，一个把同步逻辑落到 FPGA 上。
 
