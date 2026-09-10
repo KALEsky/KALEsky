@@ -1,9 +1,11 @@
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile/hero-dark-compact.svg">
   <source media="(max-width: 600px)" srcset="assets/profile/hero-light-compact.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
-  <img src="assets/profile/hero-light.svg" width="100%" alt="Jerry Gao · 葭瑞 · 大语言模型 · 生成式推荐 · AI Agent。探索模型，理解智能。">
+  <img src="assets/profile/hero-light.svg" width="90%" alt="Jerry Gao · 葭瑞 · 大语言模型 · 生成式推荐 · AI Agent。探索模型，理解智能。">
 </picture>
+</p>
 
 <p align="center">
   <a href="mailto:gaoruixiang@mail.ustc.edu.cn">📮 gaoruixiang@mail.ustc.edu.cn</a><br>
