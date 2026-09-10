@@ -27,6 +27,14 @@ Hi, I’m KALEsky.
 
 另外还有 [HIT-Database-Systems-Labs](https://github.com/KALEsky/HIT-Database-Systems-Labs) 和 [HIT-Digital-Logic-Password-Lock](https://github.com/KALEsky/HIT-Digital-Logic-Password-Lock)，一个往数据库引擎内部走，一个把同步逻辑落到 FPGA 上。
 
+## Graduate coursework
+
+研究生阶段的课程实验也单独整理成了三个仓库：
+
+- [USTC-Deep-Learning-Labs](https://github.com/KALEsky/USTC-Deep-Learning-Labs) — 从 MLP、Tiny-ImageNet、Yelp RNN 到 GCN 节点分类和链接预测。
+- [USTC-Algorithm-Design-Labs](https://github.com/KALEsky/USTC-Algorithm-Design-Labs) — 排序、树、动态规划、Huffman、回溯和图搜索。
+- [USTC-Machine-Learning-Labs](https://github.com/KALEsky/USTC-Machine-Learning-Labs) — 表格数据特征工程、CatBoost，以及天气图像多任务分类。
+
 ## A note about these repositories
 
 这些不是我临时拼出来的简历项目，而是把多年课程实验重新整理后上传的作品。每个仓库尽量保留源码、实验报告、结果图和当时的技术背景；同时把明显的本机路径、密码、私钥、生成物和来源不清的材料排除掉。
