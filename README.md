@@ -16,13 +16,14 @@ Hi, I’m KALEsky.
 
 这些仓库按“打开后能不能比较快看懂、能不能看出我做过什么”来挑，不完全按时间排序：
 
-1. [HIT-Machine-Learning-Labs](https://github.com/KALEsky/HIT-Machine-Learning-Labs) — 从多项式拟合、逻辑回归到聚类和 PCA，记录了把公式自己写成实验的过程。
-2. [HIT-Computer-Systems-Labs](https://github.com/KALEsky/HIT-Computer-Systems-Labs) — 数据表示、汇编、Bomb Lab、缓存友好优化和 Tiny Shell，比较集中地展示系统软件基础。
-3. [HIT-Operating-Systems-Labs](https://github.com/KALEsky/HIT-Operating-Systems-Labs) — 从 `iret`、TSS、启动扇区到 Linux 0.11 系统调用和进程运行轨迹。
-4. [HIT-Compiler-Labs](https://github.com/KALEsky/HIT-Compiler-Labs) — C-- 的词法/语法分析、符号表、语义检查和线性 IR 优化。
-5. [HIT-Computer-Networks-Labs](https://github.com/KALEsky/HIT-Computer-Networks-Labs) — HTTP 缓存代理、可靠 UDP、IPv4 收发/转发和协议抓包分析。
-6. [HIT-Parallel-Computing-Labs](https://github.com/KALEsky/HIT-Parallel-Computing-Labs) — MPI、PThread、OpenMP 和 CUDA 放在同一组实验里比较。
-7. [HIT-RISC-V-Experiments](https://github.com/KALEsky/HIT-RISC-V-Experiments) — 浏览器里的 RISC-V/VDP 模拟器和面向自定义硬件的 bare-metal 固件，能把前端模拟、汇编启动代码和设备寄存器串起来看。
+1. [HIT-Bachelor-Thesis-Federated-Learning](https://github.com/KALEsky/HIT-Bachelor-Thesis-Federated-Learning) — 本科毕业设计：用 Shapley 值评估客户端贡献，并通过信誉加权聚合减轻恶意参与者的影响。
+2. [HIT-Machine-Learning-Labs](https://github.com/KALEsky/HIT-Machine-Learning-Labs) — 从多项式拟合、逻辑回归到聚类和 PCA，记录了把公式自己写成实验的过程。
+3. [HIT-Computer-Systems-Labs](https://github.com/KALEsky/HIT-Computer-Systems-Labs) — 数据表示、汇编、Bomb Lab、缓存友好优化和 Tiny Shell，比较集中地展示系统软件基础。
+4. [HIT-Operating-Systems-Labs](https://github.com/KALEsky/HIT-Operating-Systems-Labs) — 从 `iret`、TSS、启动扇区到 Linux 0.11 系统调用和进程运行轨迹。
+5. [HIT-Compiler-Labs](https://github.com/KALEsky/HIT-Compiler-Labs) — C-- 的词法/语法分析、符号表、语义检查和线性 IR 优化。
+6. [HIT-Computer-Networks-Labs](https://github.com/KALEsky/HIT-Computer-Networks-Labs) — HTTP 缓存代理、可靠 UDP、IPv4 收发/转发和协议抓包分析。
+7. [HIT-Parallel-Computing-Labs](https://github.com/KALEsky/HIT-Parallel-Computing-Labs) — MPI、PThread、OpenMP 和 CUDA 放在同一组实验里比较。
+8. [HIT-RISC-V-Experiments](https://github.com/KALEsky/HIT-RISC-V-Experiments) — 浏览器里的 RISC-V/VDP 模拟器和面向自定义硬件的 bare-metal 固件，能把前端模拟、汇编启动代码和设备寄存器串起来看。
 
 另外还有 [HIT-Database-Systems-Labs](https://github.com/KALEsky/HIT-Database-Systems-Labs) 和 [HIT-Digital-Logic-Password-Lock](https://github.com/KALEsky/HIT-Digital-Logic-Password-Lock)，一个往数据库引擎内部走，一个把同步逻辑落到 FPGA 上。
 
