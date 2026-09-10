@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="32" viewBox="0 0 64 32" role="img" aria-label="C">
+<title>C</title><g transform="translate(0,2)">
+<rect x=".5" y=".5" width="63" height="27" rx="4" fill="#152236" stroke="#31425a"/>
+<path d="M4.5 1H59.5" stroke="#9eb9d2" stroke-width="1.5" opacity=".85"/>
+<text x="16" y="20" fill="#9eb9d2" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="18" font-weight="700" text-anchor="middle">C</text>
+<text x="33" y="18.5" fill="#edf3ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="12.7" font-weight="550" >C</text>
+</g></svg>

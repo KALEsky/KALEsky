@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="32" viewBox="0 0 153 32" role="img" aria-label="Claude Code">
+<title>Claude Code</title><g transform="translate(0,2)">
+<rect x=".5" y=".5" width="152" height="27" rx="4" fill="#152236" stroke="#31425a"/>
+<path d="M4.5 1H148.5" stroke="#e5ab8f" stroke-width="1.5" opacity=".85"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(0 16 14)"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(30 16 14)"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(60 16 14)"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(90 16 14)"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(120 16 14)"/>
+<path d="M16 5V23" stroke="#e5ab8f" stroke-width="1.5" transform="rotate(150 16 14)"/>
+<text x="33" y="18.5" fill="#edf3ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="12.7" font-weight="550" >Claude Code</text>
+</g></svg>

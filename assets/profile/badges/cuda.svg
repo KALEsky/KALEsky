@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="32" viewBox="0 0 96 32" role="img" aria-label="CUDA">
+<title>CUDA</title><g transform="translate(0,2)">
+<rect x=".5" y=".5" width="95" height="27" rx="4" fill="#152236" stroke="#31425a"/>
+<path d="M4.5 1H91.5" stroke="#a4d954" stroke-width="1.5" opacity=".85"/>
+<rect x="9" y="7" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="14" y="7" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="19" y="7" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="9" y="12" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="14" y="12" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="19" y="12" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="9" y="17" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="14" y="17" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<rect x="19" y="17" width="3.3" height="3.3" rx=".7" fill="#a4d954"/>
+<text x="33" y="18.5" fill="#edf3ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="12.7" font-weight="550" >CUDA</text>
+</g></svg>

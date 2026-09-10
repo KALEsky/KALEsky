@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">KALEsky · 大语言模型 · 生成式推荐 · AI Agent</title>
+<desc id="desc">中国科学技术大学 USTC-CMI。抽象的 token 路径与向量点阵，仅为装饰，不表示实验结果。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1525"/><stop offset="1" stop-color="#142237"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#95a8ff"/><stop offset="1" stop-color="#4de0c3"/></linearGradient>
+<pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#263750" stroke-width="0.6" opacity="0.48"/></pattern>
+<clipPath id="clip"><rect x="1" y="1" width="1198" height="328" rx="20"/></clipPath></defs>
+<style>.pulse{animation:pulse 7s ease-in-out infinite}.trail{animation:travel 24s linear infinite}@keyframes pulse{0%,100%{opacity:.42}50%{opacity:1}}@keyframes travel{to{stroke-dashoffset:-144}}@media(prefers-reduced-motion:reduce){.pulse,.trail{animation:none}}</style>
+<rect x="1" y="1" width="1198" height="328" rx="20" fill="url(#bg)" stroke="#263750"/>
+<g clip-path="url(#clip)">
+<rect x="683.9999999999999" y="0" width="516.0" height="330" fill="url(#grid)"/>
+<path d="M0 0H1200" stroke="url(#accent)" stroke-width="5"/>
+<text x="52" y="53" fill="#a4b4cf" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="500" >KALESKY / PERSONAL PROFILE</text>
+<text x="52" y="147" fill="#edf3ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="83" font-weight="750" >KALEsky</text>
+<text x="56" y="201" fill="#edf3ff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="500" >大语言模型 · 生成式推荐 · AI Agent</text>
+<text x="56" y="265" fill="#a4b4cf" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="400" >探索模型，理解智能。</text>
+<text x="1145" y="51" fill="#95a8ff" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="600" text-anchor="end">USTC · CMI</text>
+<g transform="translate(888,181) scale(1.0)">
+<circle cx="-96" cy="-70" r="1.7" fill="#7186a5" opacity="0.21"/>
+<circle cx="-72" cy="-70" r="1.7" fill="#7186a5" opacity="0.27"/>
+<circle cx="-48" cy="-70" r="1.7" fill="#7186a5" opacity="0.32"/>
+<circle cx="-24" cy="-70" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="0" cy="-70" r="1.7" fill="#7186a5" opacity="0.37"/>
+<circle cx="24" cy="-70" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="48" cy="-70" r="1.7" fill="#7186a5" opacity="0.33"/>
+<circle cx="72" cy="-70" r="1.7" fill="#7186a5" opacity="0.28"/>
+<circle cx="96" cy="-70" r="1.7" fill="#7186a5" opacity="0.22"/>
+<circle cx="-96" cy="-46" r="1.7" fill="#7186a5" opacity="0.25"/>
+<circle cx="-72" cy="-46" r="1.7" fill="#7186a5" opacity="0.32"/>
+<circle cx="-48" cy="-46" r="1.7" fill="#7186a5" opacity="0.38"/>
+<circle cx="-24" cy="-46" r="1.7" fill="#7186a5" opacity="0.43"/>
+<circle cx="0" cy="-46" r="1.7" fill="#7186a5" opacity="0.45"/>
+<circle cx="24" cy="-46" r="1.7" fill="#7186a5" opacity="0.43"/>
+<circle cx="48" cy="-46" r="1.7" fill="#7186a5" opacity="0.39"/>
+<circle cx="72" cy="-46" r="1.7" fill="#7186a5" opacity="0.33"/>
+<circle cx="96" cy="-46" r="1.7" fill="#7186a5" opacity="0.26"/>
+<circle cx="-96" cy="-22" r="1.7" fill="#7186a5" opacity="0.28"/>
+<circle cx="-72" cy="-22" r="1.7" fill="#7186a5" opacity="0.35"/>
+<circle cx="-48" cy="-22" r="1.7" fill="#7186a5" opacity="0.42"/>
+<circle cx="-24" cy="-22" r="1.7" fill="#7186a5" opacity="0.49"/>
+<circle cx="0" cy="-22" r="1.7" fill="#7186a5" opacity="0.53"/>
+<circle cx="24" cy="-22" r="1.7" fill="#7186a5" opacity="0.50"/>
+<circle cx="48" cy="-22" r="1.7" fill="#7186a5" opacity="0.43"/>
+<circle cx="72" cy="-22" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="96" cy="-22" r="1.7" fill="#7186a5" opacity="0.29"/>
+<circle cx="-96" cy="2" r="1.7" fill="#7186a5" opacity="0.28"/>
+<circle cx="-72" cy="2" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="-48" cy="2" r="1.7" fill="#7186a5" opacity="0.44"/>
+<circle cx="-24" cy="2" r="1.7" fill="#7186a5" opacity="0.52"/>
+<circle cx="0" cy="2" r="1.7" fill="#7186a5" opacity="0.59"/>
+<circle cx="24" cy="2" r="1.7" fill="#7186a5" opacity="0.53"/>
+<circle cx="48" cy="2" r="1.7" fill="#7186a5" opacity="0.45"/>
+<circle cx="72" cy="2" r="1.7" fill="#7186a5" opacity="0.37"/>
+<circle cx="96" cy="2" r="1.7" fill="#7186a5" opacity="0.30"/>
+<circle cx="-96" cy="26" r="1.7" fill="#7186a5" opacity="0.27"/>
+<circle cx="-72" cy="26" r="1.7" fill="#7186a5" opacity="0.35"/>
+<circle cx="-48" cy="26" r="1.7" fill="#7186a5" opacity="0.42"/>
+<circle cx="-24" cy="26" r="1.7" fill="#7186a5" opacity="0.48"/>
+<circle cx="0" cy="26" r="1.7" fill="#7186a5" opacity="0.52"/>
+<circle cx="24" cy="26" r="1.7" fill="#7186a5" opacity="0.49"/>
+<circle cx="48" cy="26" r="1.7" fill="#7186a5" opacity="0.43"/>
+<circle cx="72" cy="26" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="96" cy="26" r="1.7" fill="#7186a5" opacity="0.29"/>
+<circle cx="-96" cy="50" r="1.7" fill="#7186a5" opacity="0.25"/>
+<circle cx="-72" cy="50" r="1.7" fill="#7186a5" opacity="0.31"/>
+<circle cx="-48" cy="50" r="1.7" fill="#7186a5" opacity="0.37"/>
+<circle cx="-24" cy="50" r="1.7" fill="#7186a5" opacity="0.42"/>
+<circle cx="0" cy="50" r="1.7" fill="#7186a5" opacity="0.44"/>
+<circle cx="24" cy="50" r="1.7" fill="#7186a5" opacity="0.43"/>
+<circle cx="48" cy="50" r="1.7" fill="#7186a5" opacity="0.38"/>
+<circle cx="72" cy="50" r="1.7" fill="#7186a5" opacity="0.32"/>
+<circle cx="96" cy="50" r="1.7" fill="#7186a5" opacity="0.26"/>
+<circle cx="-96" cy="74" r="1.7" fill="#7186a5" opacity="0.21"/>
+<circle cx="-72" cy="74" r="1.7" fill="#7186a5" opacity="0.26"/>
+<circle cx="-48" cy="74" r="1.7" fill="#7186a5" opacity="0.31"/>
+<circle cx="-24" cy="74" r="1.7" fill="#7186a5" opacity="0.35"/>
+<circle cx="0" cy="74" r="1.7" fill="#7186a5" opacity="0.36"/>
+<circle cx="24" cy="74" r="1.7" fill="#7186a5" opacity="0.35"/>
+<circle cx="48" cy="74" r="1.7" fill="#7186a5" opacity="0.32"/>
+<circle cx="72" cy="74" r="1.7" fill="#7186a5" opacity="0.27"/>
+<circle cx="96" cy="74" r="1.7" fill="#7186a5" opacity="0.22"/>
+<path d="M-152 41C-94 41,-116 -47,-46 -47S16 31,66 31S91 -65,175 -65" fill="none" stroke="url(#accent)" stroke-width="1.8" opacity="0.24"/>
+<path d="M-152 68C-94 68,-116 -20,-46 -20S16 58,66 58S91 -38,175 -38" fill="none" stroke="url(#accent)" stroke-width="1.8" opacity="0.7"/>
+<path d="M-152 95C-94 95,-116 7,-46 7S16 85,66 85S91 -11,175 -11" fill="none" stroke="url(#accent)" stroke-width="1.8" opacity="0.24"/>
+<path class="trail" d="M-152 68C-94 68,-116 -20,-46 -20S16 58,66 58S91 -38,175 -38" fill="none" stroke="#4de0c3" stroke-width="2.8" stroke-dasharray="7 137"/>
+<rect x="-151" y="39" width="30" height="30" rx="7" fill="#0d1525" stroke="#95a8ff" stroke-opacity=".75"/>
+<text x="-136" y="59" fill="#edf3ff" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="500" text-anchor="middle">x</text>
+<rect x="-58" y="-35" width="30" height="30" rx="7" fill="#0d1525" stroke="#95a8ff" stroke-opacity=".75"/>
+<text x="-43" y="-15" fill="#edf3ff" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="500" text-anchor="middle">z</text>
+<rect x="50" y="42" width="30" height="30" rx="7" fill="#0d1525" stroke="#95a8ff" stroke-opacity=".75"/>
+<text x="65" y="62" fill="#edf3ff" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="500" text-anchor="middle">y</text>
+<circle class="pulse" cx="175" cy="-38" r="6" fill="#4de0c3"/>
+</g></g></svg>
