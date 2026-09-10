@@ -38,7 +38,7 @@
       <sub>专业硕士 · 在读</sub>
     </td>
     <td align="right">
-      <sub><i>C9 · 985 · 211 · 双一流</i></sub>
+      <sub><i>华五 · C9 · 985 · 211 · 双一流</i></sub>
     </td>
   </tr>
 </table>
@@ -80,6 +80,7 @@
   <img src="assets/profile/badges/c.svg" alt="C" height="32">
   <img src="assets/profile/badges/linux.svg" alt="Linux" height="32">
   <img src="assets/profile/badges/git.svg" alt="Git" height="32">
+  <img src="assets/profile/badges/anaconda.svg" alt="Anaconda" height="32">
   <img src="assets/profile/badges/vscode.svg" alt="VS Code" height="32">
 </p>
 

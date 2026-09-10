@@ -81,6 +81,7 @@ BADGES = [
  ('c','C',64,'#9eb9d2','letter-c'),
  ('linux','Linux',97,'#ead168','linux'),
  ('git','Git',74,'#f9856c','gitalt'),
+ ('anaconda','Anaconda',116,'#44a568','letter-a'),
  ('vscode','VS Code',115,'#69b9f5','code'),
  ('claude-code','Claude Code',153,'#e5ab8f','asterisk'),
  ('codex','Codex',102,'#dce9f3','terminal'),
@@ -105,6 +106,8 @@ def badge(name: str, label: str, width: int, accent: str, icon: str) -> str:
                 g.append(f'<rect x="{9+c*5}" y="{7+r*5}" width="3.3" height="3.3" rx=".7" fill="{accent}"/>')
     elif icon=='letter-c':
         g.append(text(16,20,'C',18,accent,700,MONO,'text-anchor="middle"'))
+    elif icon=='letter-a':
+        g.append(text(16,20,'A',18,accent,700,MONO,'text-anchor="middle"'))
     elif icon in ('code','terminal'):
         if icon=='code':d='M12 8L6 14L12 20M20 8L26 14L20 20M18 6L14 22'
         else:d='M8 8L14 14L8 20M17 20H24'
