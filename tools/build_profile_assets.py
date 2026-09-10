@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Rebuild KALEsky's self-contained SVG assets. Python 3.9+, standard library only.
+"""Rebuild Jerry Gao's self-contained SVG assets (account: KALEsky). Python 3.9+, standard library only.
 
 Usage: python tools/build_profile_assets.py
 No API keys, network calls, GitHub Actions or extra packages are required.
@@ -28,7 +28,7 @@ def banner(theme: str, compact: bool = False) -> str:
     w,h=(720,410) if compact else (1200,330)
     px,py=(432,262) if compact else (888,181)
     g=[f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-labelledby="title desc">',
-       '<title id="title">KALEsky · 大语言模型 · 生成式推荐 · AI Agent</title>',
+       '<title id="title">Jerry Gao · 葭瑞 · 大语言模型 · 生成式推荐 · AI Agent</title>',
        '<desc id="desc">中国科学技术大学 USTC-CMI。抽象的 token 路径与向量点阵，仅为装饰，不表示实验结果。</desc>',
        f'<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="{c["bg"]}"/><stop offset="1" stop-color="{c["bg2"]}"/></linearGradient>',
        f'<linearGradient id="accent"><stop stop-color="{c["a"]}"/><stop offset="1" stop-color="{c["b"]}"/></linearGradient>',
@@ -40,18 +40,20 @@ def banner(theme: str, compact: bool = False) -> str:
        f'<rect x="{w*.57}" y="0" width="{w*.43}" height="{h}" fill="url(#grid)"/>',
        f'<path d="M0 0H{w}" stroke="url(#accent)" stroke-width="5"/>']
     if compact:
-        g += [text(38,49,'KALESKY / PERSONAL PROFILE',16,c['muted'],500,MONO),
-              text(38,134,'KALEsky',73,c['text'],750),
+        g += [text(38,49,'JERRY GAO / PERSONAL PROFILE',16,c['muted'],500,MONO),
+              text(38,134,'Jerry Gao',73,c['text'],750),
               text(38,191,'大语言模型 · 生成式推荐 · AI Agent',27,c['text'],500),
               text(38,239,'探索模型，理解智能。',23,c['muted']),
+              text(38,328,'葭瑞 / @KALEsky',18,c['muted']),
               text(38,367,'USTC · CMI',19,c['a'],600,MONO)]
         scale=.65
     else:
-        g += [text(52,53,'KALESKY / PERSONAL PROFILE',16,c['muted'],500,MONO),
-              text(52,147,'KALEsky',83,c['text'],750),
+        g += [text(52,53,'JERRY GAO / PERSONAL PROFILE',16,c['muted'],500,MONO),
+              text(52,147,'Jerry Gao',83,c['text'],750),
               text(56,201,'大语言模型 · 生成式推荐 · AI Agent',27,c['text'],500),
               text(56,265,'探索模型，理解智能。',21,c['muted']),
-              text(1145,51,'USTC · CMI',16,c['a'],600,MONO,'text-anchor="end"')]
+              text(1145,51,'USTC · CMI',16,c['a'],600,MONO,'text-anchor="end"'),
+              text(1145,294,'葭瑞 / @KALEsky',15,c['muted'],400,SANS,'text-anchor="end"')]
         scale=1.0
     # Decorative token-space illustration: no chip, false metrics or scientific claims.
     g.append(f'<g transform="translate({px},{py}) scale({scale})">')

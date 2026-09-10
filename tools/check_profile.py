@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Validate local README links and SVG safety. No network access needed."""
 from pathlib import Path
+import re
 from html.parser import HTMLParser
 from urllib.parse import urlsplit, unquote
 import xml.etree.ElementTree as ET
@@ -40,7 +41,20 @@ def main():
             if any(k.rsplit('}',1)[-1]=='href' and not v.startswith('#') for k,v in n.attrib.items()):errors.append(f'External SVG reference: {path}')
     for term in ['哈尔滨工业大学','工学学士','中国科学技术大学','专业硕士','张勇东','生成式推荐']:
         if term not in (ROOT/'README.md').read_text(encoding='utf-8'):errors.append(f'Missing profile field: {term}')
+    readme=(ROOT/'README.md').read_text(encoding='utf-8')
+    for term in ['Jerry Gao','gaoruixiang@mail.ustc.edu.cn','mailto:gaoruixiang@mail.ustc.edu.cn','编程语言','深度学习与模型生态','计算与开发环境','Anaconda','华五']:
+        if term not in readme:errors.append(f'Missing v2 field: {term}')
+    ordered=['kale-about','kale-learning','kale-stack','kale-tools']
+    positions=[readme.find(f'<a name="{k}"></a>') for k in ordered]
+    if min(positions)<0 or positions!=sorted(positions):errors.append('Incorrect section order')
+    if r.targets!=ordered:errors.append('Navigation does not match section order')
+    expected={'python','java','c','anaconda','pytorch','transformers','hugging-face','cuda','linux','git','vscode','claude-code','codex','deepseek-harness'}
+    badges=re.findall(r'assets/profile/badges/([^/" ]+)\.svg',readme)
+    if set(badges)!=expected or len(badges)!=len(expected):errors.append('Missing or duplicated badges')
+    for banner in (ROOT/'assets/profile').glob('hero-*.svg'):
+        svg_text=' '.join(ET.parse(banner).getroot().itertext())
+        if 'Jerry Gao' not in svg_text:errors.append(f'Old display name in {banner.name}')
     if errors:raise SystemExit('\n'.join(errors))
-    print(f'PASS: {len(r.paths)} local image references, {len(r.targets)} navigation anchors, SVG safety and core profile fields.')
+    print(f'PASS: {len(r.paths)} local image references, {len(r.targets)} navigation anchors, SVG safety, identity/contact fields, section order and 14 badges.')
 
 if __name__=='__main__':main()

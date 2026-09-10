@@ -2,13 +2,17 @@
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/profile/hero-dark-compact.svg">
   <source media="(max-width: 600px)" srcset="assets/profile/hero-light-compact.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
-  <img src="assets/profile/hero-light.svg" width="100%" alt="KALEsky · 大语言模型 · 生成式推荐 · AI Agent。探索模型，理解智能。">
+  <img src="assets/profile/hero-light.svg" width="100%" alt="Jerry Gao · 葭瑞 · 大语言模型 · 生成式推荐 · AI Agent。探索模型，理解智能。">
 </picture>
 
 <p align="center">
+  <a href="mailto:gaoruixiang@mail.ustc.edu.cn">📮 gaoruixiang@mail.ustc.edu.cn</a><br>
+</p>
+
+<p align="center">
   <a href="#kale-about">关于我</a> &nbsp; / &nbsp;
-  <a href="#kale-stack">技术栈</a> &nbsp; / &nbsp;
   <a href="#kale-learning">学习方向</a> &nbsp; / &nbsp;
+  <a href="#kale-stack">技术栈</a> &nbsp; / &nbsp;
   <a href="#kale-tools">AI 工具</a>
 </p>
 
@@ -59,33 +63,6 @@
 
 ---
 
-<a name="kale-stack"></a>
-
-## 🛠️ 技术栈
-
-**模型与算法**
-
-<p>
-  <img src="assets/profile/badges/python.svg" alt="Python" height="32">
-  <img src="assets/profile/badges/pytorch.svg" alt="PyTorch" height="32">
-  <img src="assets/profile/badges/hugging-face.svg" alt="Hugging Face" height="32">
-  <img src="assets/profile/badges/transformers.svg" alt="Transformers" height="32">
-  <img src="assets/profile/badges/cuda.svg" alt="CUDA" height="32">
-</p>
-
-**通用开发**
-
-<p>
-  <img src="assets/profile/badges/java.svg" alt="Java" height="32">
-  <img src="assets/profile/badges/c.svg" alt="C" height="32">
-  <img src="assets/profile/badges/linux.svg" alt="Linux" height="32">
-  <img src="assets/profile/badges/git.svg" alt="Git" height="32">
-  <img src="assets/profile/badges/anaconda.svg" alt="Anaconda" height="32">
-  <img src="assets/profile/badges/vscode.svg" alt="VS Code" height="32">
-</p>
-
----
-
 <a name="kale-learning"></a>
 
 ## 📚 学习方向
@@ -122,6 +99,38 @@
 
 ---
 
+<a name="kale-stack"></a>
+
+## 🛠️ 技术栈
+
+**编程语言**
+
+<p>
+  <img src="assets/profile/badges/python.svg" alt="Python" height="32">
+  <img src="assets/profile/badges/java.svg" alt="Java" height="32">
+  <img src="assets/profile/badges/c.svg" alt="C" height="32">
+</p>
+
+**深度学习与模型生态**
+
+<p>
+  <img src="assets/profile/badges/pytorch.svg" alt="PyTorch" height="32">
+  <img src="assets/profile/badges/transformers.svg" alt="Transformers" height="32">
+  <img src="assets/profile/badges/hugging-face.svg" alt="Hugging Face" height="32">
+</p>
+
+**计算与开发环境**
+
+<p>
+  <img src="assets/profile/badges/cuda.svg" alt="CUDA" height="32">
+  <img src="assets/profile/badges/linux.svg" alt="Linux" height="32">
+  <img src="assets/profile/badges/git.svg" alt="Git" height="32">
+  <img src="assets/profile/badges/anaconda.svg" alt="Anaconda" height="32">
+  <img src="assets/profile/badges/vscode.svg" alt="VS Code" height="32">
+</p>
+
+---
+
 <a name="kale-tools"></a>
 
 ## 🧰 AI 工具
@@ -138,5 +147,6 @@
 
 <p align="center">
   ✨ 保持好奇，认真求证。<br>
-  <sub>从一个问题出发，让理解在实验中生长。</sub>
+  <sub>从一个问题出发，让理解在实验中生长。</sub><br>
+  <sub>Jerry Gao · 葭瑞</sub>
 </p>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">KALEsky · 大语言模型 · 生成式推荐 · AI Agent</title>
+<title id="title">Jerry Gao · 葭瑞 · 大语言模型 · 生成式推荐 · AI Agent</title>
 <desc id="desc">中国科学技术大学 USTC-CMI。抽象的 token 路径与向量点阵，仅为装饰，不表示实验结果。</desc>
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f4f7ff"/><stop offset="1" stop-color="#e9f4f6"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#5367c9"/><stop offset="1" stop-color="#087f7a"/></linearGradient>
@@ -10,11 +10,12 @@
 <g clip-path="url(#clip)">
 <rect x="683.9999999999999" y="0" width="516.0" height="330" fill="url(#grid)"/>
 <path d="M0 0H1200" stroke="url(#accent)" stroke-width="5"/>
-<text x="52" y="53" fill="#526581" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="500" >KALESKY / PERSONAL PROFILE</text>
-<text x="52" y="147" fill="#172844" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="83" font-weight="750" >KALEsky</text>
+<text x="52" y="53" fill="#526581" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="500" >JERRY GAO / PERSONAL PROFILE</text>
+<text x="52" y="147" fill="#172844" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="83" font-weight="750" >Jerry Gao</text>
 <text x="56" y="201" fill="#172844" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="27" font-weight="500" >大语言模型 · 生成式推荐 · AI Agent</text>
 <text x="56" y="265" fill="#526581" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="21" font-weight="400" >探索模型，理解智能。</text>
 <text x="1145" y="51" fill="#5367c9" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="16" font-weight="600" text-anchor="end">USTC · CMI</text>
+<text x="1145" y="294" fill="#526581" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Noto Sans CJK SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="400" text-anchor="end">葭瑞 / @KALEsky</text>
 <g transform="translate(888,181) scale(1.0)">
 <circle cx="-96" cy="-70" r="1.7" fill="#8ca4bf" opacity="0.21"/>
 <circle cx="-72" cy="-70" r="1.7" fill="#8ca4bf" opacity="0.27"/>
